@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#Container{
+    width: 1000px;
+    height: 1200px;
+    background: #05C7F2;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#HEADER{
+    width: 1000px;
+    height: 200px;
+    background:#F23838;
+}
+#NAV{
+    width: 1000px;
+    height: 50px;
+    background: #F7941E;
+}
+#MAIN{
+    width: 1000px;
+    height: 865px;
+    color:#042940 ;
+}
+#FOOTER{
+    width: 1000px;
+    height: 85px;
+    background: #DBF227;
+}
+#ASIDE{
+    float: right;
+    width: 200px;
+    height: 865px;
+    background: #9d1c8ac6;
+}
+#ENCA{
+    position: relative;
+    left: 400px;
+    top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#MENU{
+    position: relative;
+    left: 455px;
+    top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#CUER{
+    position: relative;
+    left: 320px;
+    top: 420px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#MEAL{
+    position: relative;
+    left: 18px;
+    top: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#PIE{
+    position: relative;
+    left: 495px;
+    top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
