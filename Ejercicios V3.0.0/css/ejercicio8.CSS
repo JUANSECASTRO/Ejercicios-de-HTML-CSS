@@ -1,0 +1,49 @@
+#contenedor{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #05C7F2;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color:#F23838;
+    font-size: 40px;
+}
+
+strong{
+    color:#F7941E ;
+    font-size: 20px;
+}
+#tit1{
+    color:#042940 ;
+    font-size: 20px;
+}
+#tit2{
+    color:#DBF227 ;
+    font-size: 20px;
+}
+li{
+    color:#9d1c8ac6 ;
+    font-size: 15px;
+}
+
+#n1{
+    color:#16a509 ;
+    font-size: 25px;
+}
+
+#n2{
+    color:#ff0000 ;
+    font-size: 15px;
+}
+#n3{
+    color:#ff8000 ;
+    font-size: 15px;
+}
+#n4{
+    color:#9d1c8ac6 ;
+    font-size: 15px;
+}
+
+dl{
+    color:#F23838;
+}

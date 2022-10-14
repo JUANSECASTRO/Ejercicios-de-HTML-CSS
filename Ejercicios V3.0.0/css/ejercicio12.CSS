@@ -1,0 +1,19 @@
+#contenedor{
+    background-color: #05C7F2;
+}
+h3{
+     color:#F23838 ;
+     font-size: 25px;
+     font-family: 'Times New Roman', Times, serif;
+}
+caption{
+   color:#F7941E ;
+}
+tr{
+     color:#042940 ;
+     font-size: 15px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ strong{
+   color:#ff0000 ; 
+}

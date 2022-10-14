@@ -1,0 +1,26 @@
+#contenedor{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #05C7F2;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tit1{
+    color:#F23838 ;
+    font-size: 35px;
+}
+h3{
+    color:#F7941E;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#tit2{
+    color:#042940 ;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#tit3{
+    color:#DBF227;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

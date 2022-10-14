@@ -1,0 +1,24 @@
+#contenedor{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#05C7F2;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+color: #F23838;
+font-size: 20;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+caption{
+color: #F7941E;
+}
+a{
+color:#DBF227 ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+color:#042940 ;
+}
+tr{
+color:#042940 ;;
+}
