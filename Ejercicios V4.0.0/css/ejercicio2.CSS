@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#Container{
+    width: 1000px;
+    height: 1200px;
+    background: #05C7F2;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#HEADER{
+    width: 1000px;
+    height: 200px;
+    background:#F23838;
+}
+#NAV{
+    width: 1000px;
+    height: 50px;
+    background: #F7941E;
+}
+#MAIN{
+    width: 1000px;
+    height: 865px;
+    color:#042940 ;
+}
+#FOOTER{
+    width: 1000px;
+    height: 85px;
+    background: #DBF227;
+}
+#ENCA{
+    position: relative;
+    left: 385px;
+    top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#MENU{
+    position: relative;
+    left: 400px;
+    top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#CUER{
+    position: relative;
+    left:5px;
+    top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+#PIE{
+    position: relative;
+    left:75px;
+    top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
